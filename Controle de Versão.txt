@@ -1,0 +1,24 @@
+SVN -> Centralizado 
+
+- Controle por pasta 
+- Locais 
+- Servidor centralizado 
+
+----------------------------------------------
+
+GIT -> Distribuído
+
+- Acesso total ao repositório
+- Um repositório por projeto 
+- Todo mundo tem uma cópia, se der problema no servidor, só pegar uma cópia.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+COMANDOS GIT:
+
+BRANCH -> pasta/arquivo
+
+GIT CHECKOU -B (NOME BRANCH) -> faz a mudança do arquivo, se o arquivo não existir ele remove a pasta.
+
+
+GIT MERGE (NOME) -> unir o código feito ao já existente, subir as alterações.
